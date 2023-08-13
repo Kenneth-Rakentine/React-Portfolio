@@ -1,8 +1,8 @@
 {
   "name": "personalportfolio",
   "version": "0.1.0",
-  "homepage": "https://kenneth-rakentine.github.io/Personal-Portfolio/gitname.github.io/react-gh-pages",
   "private": true,
+  "homepage":"http://Kenneth-Rakentine.github.io/React-Portfolio",
   "dependencies": {
     "@react-spring/parallax": "^9.7.3",
     "@testing-library/jest-dom": "^5.17.0",
