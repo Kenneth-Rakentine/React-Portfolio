@@ -4,6 +4,8 @@
 
 ## Live Version
 
+[Live Site](https://kenneth-rakentine.github.io/React-Portfolio/)
+
 
 ## `My Approach`
 
