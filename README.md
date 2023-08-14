@@ -2,9 +2,8 @@
 
 ![LOGO](https://i.ibb.co/pjRDGkw/Name-TYPOGRAPHY4.png)
 
-## Canvas Assignment Link:
+## Live Version
 
-https://perscholas.instructure.com/courses/1464/assignments/291114?module_item_id=930282
 
 ## `My Approach`
 
