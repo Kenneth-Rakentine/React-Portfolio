@@ -1831,5 +1831,132 @@ margin-bottom:5px;
                margin-bottom:5px;
                }
   
+               .projectContainer{
+                display:block;
+                justify-content:center;
+                align-self:center;
+              /* border:solid black; */
+              color:rgb(58, 29, 29);
+              font-family:Poppins, sans-serif;
+              width:70%;
+              font-size:15px;
+              /* height:70%; */
+              margin-left:15%;
+              box-shadow:2px 3px 4px 3px rgb(44, 39, 39);
+              background-color:rgba(189, 189, 189, 0.356);
+              }
+              
+              
+              .projects{
+                display:flex;
+                margin-left:0%;
+                /* border:solid blue; */
+                width:100%;
+                color:rgb(41, 21, 21);
+                /* height:350px; */
+                background-color: #76839e71;
+                box-shadow:2px 3px 4px 3px rgb(44, 39, 39);
+              
+              }
+
+              .aboutHeadTxt{
+                margin-top:-250%;
+                color:rgb(58, 29, 29);
+                font-family:Poppins, sans-serif;
+              }
+              
+              .aboutTxtBody{
+                margin:90px;
+                margin-top:80px;
+                line-height: 22px;
+                font-size:22px;
+                line-height:40px;
+                color:rgb(59, 26, 63);
+              }
+              
+              .aboutTxtBody2{
+                /* margin:120px; */
+                margin-top:-70px;
+                letter-spacing: 6px;
+                color:rgba(255, 255, 255, 0.712);
+              }
+
+
+              
+.emailTxt{
+  font-size:20px;
+  color:rgb(60, 45, 63);
+  text-decoration: none;
+  font-weight:400;
+  border: 3.7px solid rgb(114, 96, 114);
+  background-color: rgba(112, 83, 83, 0.568); 
+  padding-right:24px;
+  padding-left:24px;
+  border-radius:27px;
+  margin:5px;
+  /* animation:float 3s ease-in-out infinite; */
+}
+
+.emailTxt:hover{
+  font-size:20px;
+  color:rgb(143, 115, 148);
+  background-color: rgba(114, 92, 92, 0.733); 
+  text-decoration: none;
+  border-bottom: 9.6px solid rgb(79, 41, 94);
+  border: 5px  solid silver;
+}
+
+.linkedInContactTxt{
+  margin-top:6px;
+  font-size:20px;
+  font-weight:400;
+  color:rgb(69, 39, 75);
+  text-decoration: none;
+  line-height:100px;
+  border: 3.7px solid rgb(114, 96, 114);
+  background-color: rgba(112, 83, 83, 0.568); 
+  padding-right:24px;
+  padding-left:24px;
+  border-radius:27px;
+  margin:30px;
+  /* animation:float2 3s ease-in-out infinite; */
+}
+
+.linkedInContactTxt:hover{
+  font-size:20px;
+  color:rgb(143, 115, 148);
+  background-color: rgba(114, 92, 92, 0.733); 
+  text-decoration: none;
+  border-bottom: 9.6px solid rgb(79, 41, 94);
+  border: 5px  solid silver;
+}
+
+.githubTxt{
+  font-size:20px;
+  color: rgb(46, 28, 49);
+  text-decoration: none;
+  border: 3.7px solid rgb(114, 96, 114);
+  background-color: rgba(112, 83, 83, 0.568);  padding-right:24px;
+  padding-left:24px;
+  border-radius:27px;
+  margin:5px;
+  font-weight:400;
+  /* animation: float3 3.4s ease-in-out infinite; */
+}
+
+.githubTxt:hover{
+  font-size:20px;
+  color:rgb(143, 115, 148);
+  background-color: rgba(114, 92, 92, 0.733); 
+  text-decoration: none;
+  border-bottom: 9.6px solid rgb(79, 41, 94);
+  border: 5px  solid silver;
+}
+
+
+.webDevTag{
+  width:65%;
+  /* margin-top:2%; */
+}
   
      }
