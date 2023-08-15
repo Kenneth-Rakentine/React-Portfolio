@@ -1628,26 +1628,30 @@ margin-bottom:5px;
   
      @media(max-width: 390px){
       .nameImg{
-        margin-top:-145%;
-        width:90%;
+        margin-top:-140%;
+        width:97%;
         height:270%;
-        margin-bottom:4.5%;
+        margin-bottom:4%;
         margin-right:-31.5%;
         background-image: url('https://i.ibb.co/ysY4zw8/Torn-Paper-Three.png');
-        background-size: contain 200px 150px;
-        background-repeat:no no-repeat;
+        background-size:280px 350px;
+        background-repeat: no-repeat;
+        /* background-attachment:fixed; */
+        background-position-x: 44%;
         animation: sphereMotion 3.3s ease-in-out infinite;
         }
   
         .nameImg:hover{
-          margin-top:-150%;
-        width:90%;
+          margin-top:-140%;
+        width:96.8%;
         height:270%;
-        margin-bottom:6.5%;
-        margin-right:-38.5%;
-        background-image: none;
-        background-size: contain 200px 150px;
-        background-repeat:no no-repeat;
+        margin-bottom:4%;
+        margin-right:-31.5%;
+        background-image: url('https://i.ibb.co/ysY4zw8/Torn-Paper-Three.png');
+        background-size:280px 350px;
+        background-repeat: no-repeat;
+        /* background-attachment:fixed; */
+        background-position-x: 44%;
         animation: sphereMotion 3.3s ease-in-out infinite;
           }
   
@@ -1659,8 +1663,10 @@ margin-bottom:5px;
           }
   
           .skillsTxt{
-            font-size: 20px;
+            font-size: 14px;
             margin-top:155%;
+            margin: right 4%;
+            margin-left: 4%;
             opacity:.6;
             line-height: 49px;
             letter-spacing:9px;
@@ -1669,7 +1675,7 @@ margin-bottom:5px;
           }
           
           .skillsTxt2{
-            font-size: 49px;
+            font-size: 38px;
             margin-top:117%;
             margin-right:39%;
             opacity:.8;
@@ -1679,7 +1685,7 @@ margin-bottom:5px;
           }
           
           .skillsTxt3{
-            font-size: 52px;
+            font-size: 41px;
             margin-top:205%;
             margin-left:30%;
             opacity:.8;
@@ -1691,7 +1697,7 @@ margin-bottom:5px;
   
           #boxLogo{
             margin-top:5%;
-            height:65px;
+            height:60px;
             margin-bottom:-4%;
             align-self:start;
             justify-content:start;
@@ -1704,12 +1710,12 @@ margin-bottom:5px;
           
           #boxLogo:hover{
             margin-top:5%;
-            height:75px;
+            height:65px;
             margin-bottom:-4%;
             align-self:start;
             justify-content:start;
             /* margin-left:-1385px; */
-            margin-left:-87%;
+            margin-left:-78%;
             border-radius:46px;
             box-shadow: 1px 2px 2px 5.4px #926c9996;
             opacity: 1;
@@ -1747,15 +1753,17 @@ margin-bottom:5px;
           .navMenu:hover {
             background-color: rgba(192, 192, 192, 0.514);
             border-radius: 30px;
-            width: 77px;
-            height: 190px;
+            width: 55px;
+            height: 150px;
             padding-top: 18px;
-            margin-top: 8%;
+            padding-bottom:-5px;
+            margin-top: -5.3%;
             margin-left: 4%;
-            line-height: 20px;
-            color: #BBC4C2;
-            font-weight: 600;
-            font-size: 7px;
+            margin-bottom:3%;
+            line-height: 22px;
+            color: #ffffff;
+            font-weight: 500;
+            font-size: 15px;
             letter-spacing: 1px;
             transition:1.4s;
           }
@@ -1779,34 +1787,36 @@ margin-bottom:5px;
           
           .linkedinIcon{
           width:12.5%;
-          opacity:1;
+          opacity:.8;
           /* margin-left:80%; */
           margin-left:75%;
           margin-bottom:5px;
           }
           
           .linkedinIcon:hover{
-            width:12.5%;
+          width:12.5%;
           opacity:1;
+          margin-left:75%;
           margin-bottom:5px;
             }
           
           .gitIcon{
             width:12.5%;
-            opacity:1;
+            opacity:.8;
             margin-left:75%;
             margin-bottom:5px;
             }
           
           .gitIcon:hover{
-              width:8.5%;
+            width:12.5%;
               opacity:1;
+              margin-left:75%;
               margin-bottom:5px;
               }
           
             .igIcon{
               width:12.5%;
-            opacity:1;
+            opacity:.9;
             margin-left:75%;
             margin-bottom:5px;
             /* filter: contrast(90);
@@ -1815,8 +1825,9 @@ margin-bottom:5px;
              }
               
             .igIcon:hover{
-              width:8.5%;
+              width:12.5%;
                opacity:1;
+               margin-left:75%;
                margin-bottom:5px;
                }
   
